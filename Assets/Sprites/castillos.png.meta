@@ -1,0 +1,168 @@
+fileFormatVersion: 2
+guid: b6b0d4c932235b24a857986bc4eb526d
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: castillos_0
+    21300002: castillos_1
+    21300004: castillos_2
+    21300006: castillos_3
+    21300008: castillos_4
+    21300010: castillos_5
+    21300012: castillos_6
+    21300014: castillos_7
+    21300016: castillos_8
+    21300018: castillos_9
+    21300020: castillos_10
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: castillos_0
+      rect:
+        serializedVersion: 2
+        x: 2840
+        y: 2225
+        width: 1901
+        height: 1123
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: castillos_1
+      rect:
+        serializedVersion: 2
+        x: 4810
+        y: 2237
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: castillos_2
+      rect:
+        serializedVersion: 2
+        x: 4779
+        y: 2168
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: castillos_3
+      rect:
+        serializedVersion: 2
+        x: 3871
+        y: 2032
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: castillos_4
+      rect:
+        serializedVersion: 2
+        x: 3859
+        y: 2020
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: castillos_5
+      rect:
+        serializedVersion: 2
+        x: 3855
+        y: 2006
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: castillos_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1875
+        height: 1693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: castillos_7
+      rect:
+        serializedVersion: 2
+        x: 4694
+        y: 1199
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: castillos_8
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 0
+        width: 1831
+        height: 2086
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: castillos_9
+      rect:
+        serializedVersion: 2
+        x: 4714
+        y: 1180
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: castillos_10
+      rect:
+        serializedVersion: 2
+        x: 3161
+        y: 445
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
